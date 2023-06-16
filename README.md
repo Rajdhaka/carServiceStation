@@ -17,8 +17,9 @@ It offers the following services, each with a unique service code:
    * Gear Fixing (GF01)
 
  3. **Service Prices:** 
- </br>
+ 
  The prices for each service vary based on the car type:
+ 
     * Basic Servicing:
       * Hatchback: ₹ 2,000
       * Sedan: ₹ 4,000
